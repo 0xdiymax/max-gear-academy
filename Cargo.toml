@@ -7,11 +7,11 @@ edition = "2021"
 gstd = { git = "https://github.com/gear-tech/gear.git", tag = "v1.4.1" }
 pebbles-game-io.path = "io"
 
-
 [build-dependencies]
 gear-wasm-builder = { git = "https://github.com/gear-tech/gear.git", tag = "v1.4.1" }
 pebbles-game-io.path = "io"
 
 [dev-dependencies]
 gear-wasm-builder = { git = "https://github.com/gear-tech/gear.git", tag = "v1.4.1" }
+gtest = { git = "https://github.com/gear-tech/gear.git", tag = "v1.4.1" }
 pebbles-game-io.path = "io"
